@@ -106,8 +106,7 @@ To undo anything, flip its switch back off, or use the restore point.
 | File           | Purpose                                  |
 |----------------|------------------------------------------|
 | `Velocity.bat` | Launcher (elevates, then starts the GUI) |
-| `Velocity.ps1` | The application                          |
-| `DESIGN.md`    | The design system                        |
+| `Velocity.ps1` | The application                     |
 | `README.md`    | This file                                |
 
 ---
